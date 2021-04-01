@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/JK/X0/MD5E-s264--1e98177cc5754abc7c7271aa78ede314.cls/MD5E-s264--1e98177cc5754abc7c7271aa78ede314.cls

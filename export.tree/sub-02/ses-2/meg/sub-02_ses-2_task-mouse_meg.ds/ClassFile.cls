@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/ff/j4/MD5E-s264--13581295cd90a1297e0a4dbd055d1bb5.cls/MD5E-s264--13581295cd90a1297e0a4dbd055d1bb5.cls
