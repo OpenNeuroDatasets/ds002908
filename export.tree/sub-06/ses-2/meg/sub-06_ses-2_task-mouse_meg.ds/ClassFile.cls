@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/MP/wf/MD5E-s264--2d66ed0d4501bce95ca7cd35dc818d8a.cls/MD5E-s264--2d66ed0d4501bce95ca7cd35dc818d8a.cls
